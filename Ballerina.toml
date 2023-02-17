@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.3.1"
+  name = "cs1"
+  org = "tharinduj22"
+  version = "0.1.0"
+
